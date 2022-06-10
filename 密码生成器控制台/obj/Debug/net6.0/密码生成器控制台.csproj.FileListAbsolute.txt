@@ -13,3 +13,5 @@ D:\Code_Zone\C-Sharp\密码生成器\密码生成器控制台\obj\Debug\net6.0\r
 D:\Code_Zone\C-Sharp\密码生成器\密码生成器控制台\obj\Debug\net6.0\密码生成器控制台.pdb
 D:\Code_Zone\C-Sharp\密码生成器\密码生成器控制台\obj\Debug\net6.0\密码生成器控制台.genruntimeconfig.cache
 D:\Code_Zone\C-Sharp\密码生成器\密码生成器控制台\obj\Debug\net6.0\ref\密码生成器控制台.dll
+D:\Code_Zone\C-Sharp\密码生成器\密码生成器控制台\bin\Debug\net6.0\Spectre.Console.dll
+D:\Code_Zone\C-Sharp\密码生成器\密码生成器控制台\obj\Debug\net6.0\密码生成器控制台.csproj.CopyComplete

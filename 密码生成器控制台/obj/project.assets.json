@@ -11,6 +11,17 @@
           "lib/net6.0/Spectre.Console.dll": {}
         }
       }
+    },
+    "net6.0/win-x64": {
+      "Spectre.Console/0.44.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Spectre.Console.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Spectre.Console.dll": {}
+        }
+      }
     }
   },
   "libraries": {
@@ -103,6 +114,11 @@
           }
         },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "win-x64": {
+        "#import": []
       }
     }
   }

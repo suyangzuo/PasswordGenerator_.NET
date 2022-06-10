@@ -6,7 +6,7 @@
     <RootNamespace>密码生成器控制台</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <ApplicationIcon>Everaldo-Crystal-Clear-App-password.ico</ApplicationIcon>
+    <ApplicationIcon>Icons/Everaldo-Crystal-Clear-App-password.ico</ApplicationIcon>
   </PropertyGroup>
 
   <ItemGroup>
