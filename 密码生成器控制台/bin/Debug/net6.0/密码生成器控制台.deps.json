@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "密码生成器控制台/1.0.0": {
+        "runtime": {
+          "密码生成器控制台.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "密码生成器控制台/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

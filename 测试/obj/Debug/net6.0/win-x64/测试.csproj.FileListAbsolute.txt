@@ -1,0 +1,15 @@
+D:\Code_Zone\C-Sharp\密码生成器\测试\bin\Debug\net6.0\win-x64\测试.exe
+D:\Code_Zone\C-Sharp\密码生成器\测试\bin\Debug\net6.0\win-x64\测试.deps.json
+D:\Code_Zone\C-Sharp\密码生成器\测试\bin\Debug\net6.0\win-x64\测试.runtimeconfig.json
+D:\Code_Zone\C-Sharp\密码生成器\测试\bin\Debug\net6.0\win-x64\测试.dll
+D:\Code_Zone\C-Sharp\密码生成器\测试\bin\Debug\net6.0\win-x64\测试.pdb
+D:\Code_Zone\C-Sharp\密码生成器\测试\obj\Debug\net6.0\win-x64\测试.csproj.AssemblyReference.cache
+D:\Code_Zone\C-Sharp\密码生成器\测试\obj\Debug\net6.0\win-x64\测试.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code_Zone\C-Sharp\密码生成器\测试\obj\Debug\net6.0\win-x64\测试.AssemblyInfoInputs.cache
+D:\Code_Zone\C-Sharp\密码生成器\测试\obj\Debug\net6.0\win-x64\测试.AssemblyInfo.cs
+D:\Code_Zone\C-Sharp\密码生成器\测试\obj\Debug\net6.0\win-x64\测试.csproj.CoreCompileInputs.cache
+D:\Code_Zone\C-Sharp\密码生成器\测试\obj\Debug\net6.0\win-x64\测试.dll
+D:\Code_Zone\C-Sharp\密码生成器\测试\obj\Debug\net6.0\win-x64\refint\测试.dll
+D:\Code_Zone\C-Sharp\密码生成器\测试\obj\Debug\net6.0\win-x64\测试.pdb
+D:\Code_Zone\C-Sharp\密码生成器\测试\obj\Debug\net6.0\win-x64\测试.genruntimeconfig.cache
+D:\Code_Zone\C-Sharp\密码生成器\测试\obj\Debug\net6.0\win-x64\ref\测试.dll
