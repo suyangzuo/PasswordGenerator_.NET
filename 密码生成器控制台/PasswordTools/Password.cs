@@ -6,7 +6,7 @@ namespace 密码生成器控制台.PasswordTools
         public enum PwdType
         {
             None = 0,
-            //10进制       //二进制
+            //Decimal     //Binary
             Letters = 1,  //0000 0001
             Digits = 2,   //0000 0010
             Symbols = 4,  //0000 0100
