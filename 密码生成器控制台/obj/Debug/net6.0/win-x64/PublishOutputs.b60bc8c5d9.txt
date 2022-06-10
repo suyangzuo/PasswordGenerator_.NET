@@ -1,0 +1,2 @@
+D:\Code_Zone\C-Sharp\PasswordGenerator_.NET\密码生成器控制台\bin\Debug\net6.0\win-x64\publish\密码生成器控制台.pdb
+D:\Code_Zone\C-Sharp\PasswordGenerator_.NET\密码生成器控制台\bin\Debug\net6.0\win-x64\publish\密码生成器控制台.exe
