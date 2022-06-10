@@ -1,2 +1,0 @@
-D:\Code_Zone\C-Sharp\密码生成器\测试\bin\Debug\net6.0\win-x64\publish\测试.pdb
-D:\Code_Zone\C-Sharp\密码生成器\测试\bin\Debug\net6.0\win-x64\publish\测试.exe
