@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code_Zone\\C-Sharp\\密码生成器\\密码生成器控制台\\密码生成器控制台.csproj": {}
+    "D:\\Code_Zone\\C-Sharp\\PasswordGenerator_.NET\\密码生成器控制台\\密码生成器控制台.csproj": {}
   },
   "projects": {
-    "D:\\Code_Zone\\C-Sharp\\密码生成器\\密码生成器控制台\\密码生成器控制台.csproj": {
+    "D:\\Code_Zone\\C-Sharp\\PasswordGenerator_.NET\\密码生成器控制台\\密码生成器控制台.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code_Zone\\C-Sharp\\密码生成器\\密码生成器控制台\\密码生成器控制台.csproj",
+        "projectUniqueName": "D:\\Code_Zone\\C-Sharp\\PasswordGenerator_.NET\\密码生成器控制台\\密码生成器控制台.csproj",
         "projectName": "密码生成器控制台",
-        "projectPath": "D:\\Code_Zone\\C-Sharp\\密码生成器\\密码生成器控制台\\密码生成器控制台.csproj",
+        "projectPath": "D:\\Code_Zone\\C-Sharp\\PasswordGenerator_.NET\\密码生成器控制台\\密码生成器控制台.csproj",
         "packagesPath": "C:\\Users\\suyang\\.nuget\\packages\\",
-        "outputPath": "D:\\Code_Zone\\C-Sharp\\密码生成器\\密码生成器控制台\\obj\\",
+        "outputPath": "D:\\Code_Zone\\C-Sharp\\PasswordGenerator_.NET\\密码生成器控制台\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -65,11 +65,6 @@
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "win-x64": {
-          "#import": []
         }
       }
     }

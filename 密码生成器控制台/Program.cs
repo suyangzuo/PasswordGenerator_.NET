@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using static 密码生成器控制台.Password;
+using static 密码生成器控制台.PasswordTools.Password;
 
 while (true)
 {

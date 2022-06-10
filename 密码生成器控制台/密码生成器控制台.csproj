@@ -8,9 +8,5 @@
     <Nullable>enable</Nullable>
     <ApplicationIcon>Icons/Everaldo-Crystal-Clear-App-password.ico</ApplicationIcon>
   </PropertyGroup>
-
-  <ItemGroup>
-    <PackageReference Include="Spectre.Console" Version="0.44.0" />
-  </ItemGroup>
-
+  
 </Project>

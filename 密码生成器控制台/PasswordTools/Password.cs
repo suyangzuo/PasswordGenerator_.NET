@@ -1,4 +1,4 @@
-namespace 密码生成器控制台
+namespace 密码生成器控制台.PasswordTools
 {
     public class Password
     {
