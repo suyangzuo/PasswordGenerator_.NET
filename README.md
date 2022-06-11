@@ -6,7 +6,7 @@
 
 ## **<font color=#87CEEB>算法说明</font>**
 
-### <font color=#EF7099>字符取值范围：ASCII码 33-126，共94个</font>
+### <font color=#EF7099>字符取值范围：ASCII 码 33-126，共94个</font>
 <img src="./Images/ASCII/ASCII-Table-1.jpg" alt="ASCII码表">
 
 ###### <br></br>
