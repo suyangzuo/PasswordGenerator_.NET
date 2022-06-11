@@ -2,7 +2,7 @@
 
 本团队由一群应用开发初学者组成，将伴随学习过程开发的项目托管到 **GitHub**，既方便管理，同时也培养了团队的程序开发规范性、互动性。
 
-这是团队开发的一个随机密码生成器，基于 **_<font size=4>`.NET 6.0 控制台`</font>_** 框架，欢迎大家试用。
+这是团队开发的一个随机密码生成器，基于 ***[<font size=4>.NET 6.0 控制台</font>](https://dotnet.microsoft.com/zh-cn/download/dotnet/6.0)*** 框架，欢迎大家试用。
 
 ## **<font color=#87CEEB>算法说明</font>**
 
